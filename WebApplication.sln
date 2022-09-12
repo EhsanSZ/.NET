@@ -11,6 +11,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Fliter", "Fliter", "{E61465
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Filters", "Filters\Filters.csproj", "{E1A7345A-3E10-4DD0-9AF6-1C7194D03D7A}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ModelBinding", "ModelBinding", "{AA41E056-1E94-428A-97DD-8693A18FB51B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModelBinding", "ModelBinding\ModelBinding.csproj", "{BE7C2222-3268-441C-930D-3E4C0B4ED9A1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,6 +29,10 @@ Global
 		{E1A7345A-3E10-4DD0-9AF6-1C7194D03D7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E1A7345A-3E10-4DD0-9AF6-1C7194D03D7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E1A7345A-3E10-4DD0-9AF6-1C7194D03D7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE7C2222-3268-441C-930D-3E4C0B4ED9A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE7C2222-3268-441C-930D-3E4C0B4ED9A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE7C2222-3268-441C-930D-3E4C0B4ED9A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE7C2222-3268-441C-930D-3E4C0B4ED9A1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -32,6 +40,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{C806D314-9141-409B-89B7-A6593BBBF980} = {40F4030E-AD75-46A1-B305-40F81FF508EB}
 		{E1A7345A-3E10-4DD0-9AF6-1C7194D03D7A} = {E61465DD-8339-46C7-A8F2-6852EC8DB3C2}
+		{BE7C2222-3268-441C-930D-3E4C0B4ED9A1} = {AA41E056-1E94-428A-97DD-8693A18FB51B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {2E041AB1-DF2A-4955-A156-D7D97E933818}
