@@ -5,7 +5,12 @@
       "ProjectGuid": "75ecd3d8-bf51-4b8d-8889-50c530ff850a",
       "DisplayName": "WebApplication",
       "ColorIndex": 0
+    },
+    "c806d314-9141-409b-89b7-a6593bbbf980": {
+      "ProjectGuid": "c806d314-9141-409b-89b7-a6593bbbf980",
+      "DisplayName": "API_Route",
+      "ColorIndex": 1
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 2
 }

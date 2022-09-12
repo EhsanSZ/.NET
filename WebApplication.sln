@@ -5,7 +5,11 @@ VisualStudioVersion = 17.0.32014.148
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Route", "Route", "{40F4030E-AD75-46A1-B305-40F81FF508EB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API_Route", "API_Route\API_Route.csproj", "{C806D314-9141-409B-89B7-A6593BBBF980}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "API_Route", "API_Route\API_Route.csproj", "{C806D314-9141-409B-89B7-A6593BBBF980}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Fliter", "Fliter", "{E61465DD-8339-46C7-A8F2-6852EC8DB3C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Filters", "Filters\Filters.csproj", "{E1A7345A-3E10-4DD0-9AF6-1C7194D03D7A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,12 +21,17 @@ Global
 		{C806D314-9141-409B-89B7-A6593BBBF980}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C806D314-9141-409B-89B7-A6593BBBF980}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C806D314-9141-409B-89B7-A6593BBBF980}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1A7345A-3E10-4DD0-9AF6-1C7194D03D7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1A7345A-3E10-4DD0-9AF6-1C7194D03D7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1A7345A-3E10-4DD0-9AF6-1C7194D03D7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1A7345A-3E10-4DD0-9AF6-1C7194D03D7A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{C806D314-9141-409B-89B7-A6593BBBF980} = {40F4030E-AD75-46A1-B305-40F81FF508EB}
+		{E1A7345A-3E10-4DD0-9AF6-1C7194D03D7A} = {E61465DD-8339-46C7-A8F2-6852EC8DB3C2}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {2E041AB1-DF2A-4955-A156-D7D97E933818}
