@@ -10,7 +10,22 @@
       "ProjectGuid": "c806d314-9141-409b-89b7-a6593bbbf980",
       "DisplayName": "API_Route",
       "ColorIndex": 1
+    },
+    "e1a7345a-3e10-4dd0-9af6-1c7194d03d7a": {
+      "ProjectGuid": "e1a7345a-3e10-4dd0-9af6-1c7194d03d7a",
+      "DisplayName": "Filters",
+      "ColorIndex": 2
+    },
+    "be7c2222-3268-441c-930d-3e4c0b4ed9a1": {
+      "ProjectGuid": "be7c2222-3268-441c-930d-3e4c0b4ed9a1",
+      "DisplayName": "ModelBinding",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 4
 }

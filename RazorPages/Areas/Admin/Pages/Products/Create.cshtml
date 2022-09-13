@@ -1,0 +1,26 @@
+﻿@page
+@model RazorPages.Pages.Admin.Products.CreateModel
+@{
+}
+
+<h1>افزودن محصول</h1>
+<hr />
+<div class="row">
+    <form asp-page="Create" method="post">
+        <div class="form-group">
+            <label asp-for="Product.Name" class="form-control"></label>
+            <input asp-for="Product.Name" class="form-control" />
+        </div>
+        <div class="form-group">
+            <label asp-for="Product.Price" class="form-control"></label>
+            <input asp-for="Product.Price" class="form-control" />
+        </div>
+        <div class="form-group">
+            <label asp-for="Product.Description" class="form-control"></label>
+            <textarea asp-for="Product.Description"></textarea>
+        </div>
+        <div class="form-group">
+            <input type="submit" value="ایجاد" class="btn btn-primary" />
+        </div>
+    </form>
+</div>

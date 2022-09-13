@@ -1,0 +1,34 @@
+﻿@*@page  "{id:int?}/{name:alpha:minlength(3):maxlength(10)}/{id2:min(100)}"*@
+@page "{handler?}/{id?}"
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+
+<form  asp-route-id="125" method="post">
+    <h1>Multiple Action</h1>
+
+    <button asp-page-handler="SendComment" type="submit"> Sned Comment</button>
+    <button asp-page-handler="Subscribe" type="submit"> Sned Subscribe</button>
+</form>
+
+<hr />
+
+<form asp-page-handler="SendComment"  asp-route-id="125"  method="post">
+    <h1>send Comment</h1>
+ 
+    <button type="submit"> Sned Comment</button>
+</form>
+<hr />
+<form asp-page-handler="Subscribe" asp-route-id="88"   method="post">
+    <h1>send Subscribe</h1>
+ 
+
+    <button type="submit"> Sned Subscribe</button>
+</form>
+ 
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
