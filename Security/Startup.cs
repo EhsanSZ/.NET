@@ -4,6 +4,7 @@ using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using Security.Controllers;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -45,6 +46,13 @@ namespace Security
             app.UseRouting();
 
             app.UseAuthorization();
+
+            app.UseCSP();
+
+            //app.UseCSP(option =>
+            //{
+            //    option.ScriptSources(d => d.Self().CustomSources("cdn.Ehsan.net"));
+            //});
 
             app.UseEndpoints(endpoints =>
             {

@@ -1,8 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "LYdZzpN/WeAyJy6huCDVs1jNF6hwCGn93xNV77sNhe1D1D7MRFHzfuqmOtDPa7inJe7QCsEm3f23Iy62+4EHGw==",
+  "dgSpecHash": "VuQvbhKV3k9YtYmH6CinOy/9R3WzkhDuTuDgDg/9JW3iKDPVMwzJYOuMJ2QSryaNntlEbwue7I0PcgKY0HTG9Q==",
   "success": true,
   "projectFilePath": "D:\\MyProje\\ASP.Net\\asp.net core\\WebApplication\\Security\\Security.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Ehsan\\.nuget\\packages\\anglesharp\\0.17.1\\anglesharp.0.17.1.nupkg.sha512",
+    "C:\\Users\\Ehsan\\.nuget\\packages\\anglesharp.css\\0.16.4\\anglesharp.css.0.16.4.nupkg.sha512",
+    "C:\\Users\\Ehsan\\.nuget\\packages\\htmlsanitizer\\7.1.542\\htmlsanitizer.7.1.542.nupkg.sha512",
+    "C:\\Users\\Ehsan\\.nuget\\packages\\nwebsec.aspnetcore.core\\3.0.0\\nwebsec.aspnetcore.core.3.0.0.nupkg.sha512",
+    "C:\\Users\\Ehsan\\.nuget\\packages\\nwebsec.aspnetcore.middleware\\3.0.0\\nwebsec.aspnetcore.middleware.3.0.0.nupkg.sha512",
+    "C:\\Users\\Ehsan\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\Ehsan\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Ehsan\\.nuget\\packages\\system.text.encoding.codepages\\6.0.0\\system.text.encoding.codepages.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

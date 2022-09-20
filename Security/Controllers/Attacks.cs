@@ -21,7 +21,6 @@ namespace Security.Controllers
                 // Logg
                return RedirectToAction(nameof(Index));
             }
-
         }
 
         [HttpPost]
