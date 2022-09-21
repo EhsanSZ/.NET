@@ -24,6 +24,22 @@ namespace Security
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddCors(options =>
+            {
+                //options.AddDefaultPolicy(b =>
+                //b.AllowAnyOrigin());
+
+
+                options.AddPolicy("MyCors",
+
+                    b =>
+                    b.WithOrigins("https://localhost:44310", "http://localhost:44310")
+                    //b.AllowAnyOrigin()
+                    .AllowAnyHeader()
+                    .WithMethods("GET", "POST", "PUT")
+                    /*.AllowCredentials()*/);
+            });
+
             services.AddControllersWithViews();
         }
 
@@ -42,6 +58,8 @@ namespace Security
             }
             app.UseHttpsRedirection();
             app.UseStaticFiles();
+            app.UseCors("MyCors");
+            //app.UseCors();
 
             app.UseRouting();
 

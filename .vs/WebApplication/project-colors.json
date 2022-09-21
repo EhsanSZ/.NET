@@ -30,7 +30,12 @@
       "ProjectGuid": "80bcbde8-3f2f-48b3-b436-43893626e3be",
       "DisplayName": "RazorPages",
       "ColorIndex": 4
+    },
+    "eec65f23-0cff-4419-9217-6244fc7141c9": {
+      "ProjectGuid": "eec65f23-0cff-4419-9217-6244fc7141c9",
+      "DisplayName": "Security",
+      "ColorIndex": 5
     }
   },
-  "NextColorIndex": 5
+  "NextColorIndex": 6
 }
