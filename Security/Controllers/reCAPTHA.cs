@@ -36,7 +36,8 @@ namespace Security.Controllers
         {
             string sec = "6Ley---------------------------------ofu";
             HttpClient httpClient = new HttpClient();
-            var result = httpClient.PostAsync($"https://www.google.com/recaptcha/api/siteverify?secret={sec}&response={googleResponse}", null).Result;
+            var result = httpClient.PostAsync
+            ($"https://www.google.com/recaptcha/api/siteverify?secret={sec}&response={googleResponse}", null).Result;
             if (result.StatusCode != System.Net.HttpStatusCode.OK)
             {
                 return false;

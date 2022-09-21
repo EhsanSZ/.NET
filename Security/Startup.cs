@@ -65,6 +65,8 @@ namespace Security
 
             app.UseAuthorization();
 
+            app.UseMiddleware<SafeIpMiddleware>(Configuration["SafeIp"]);
+
             app.UseCSP();
 
             //app.UseCSP(option =>
