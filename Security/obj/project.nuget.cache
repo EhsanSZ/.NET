@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "qfdlkIXuUd0v7AbZOA9Nk8EBwZxrVrXcLrcVD8KWZ311ns20hnB5kUCMjIo7PGYgxjioVaXAJkjOsjtH2AZz5g==",
+  "dgSpecHash": "bFy6wNpoKUfBGpxkKqwR9rqcyhn9SSP+wvpKhjO3pNnPNVOMquYv/s7t0qTNgL0BrPvQhLBAUesc52GGMUr5DA==",
   "success": true,
   "projectFilePath": "D:\\MyProje\\ASP.Net\\asp.net core\\WebApplication\\Security\\Security.csproj",
   "expectedPackageFiles": [
@@ -9,6 +9,7 @@
     "C:\\Users\\Ehsan\\.nuget\\packages\\htmlsanitizer\\7.1.542\\htmlsanitizer.7.1.542.nupkg.sha512",
     "C:\\Users\\Ehsan\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\Ehsan\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
+    "C:\\Users\\Ehsan\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
     "C:\\Users\\Ehsan\\.nuget\\packages\\nwebsec.aspnetcore.core\\3.0.0\\nwebsec.aspnetcore.core.3.0.0.nupkg.sha512",
     "C:\\Users\\Ehsan\\.nuget\\packages\\nwebsec.aspnetcore.middleware\\3.0.0\\nwebsec.aspnetcore.middleware.3.0.0.nupkg.sha512",
     "C:\\Users\\Ehsan\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.7.0\\runtime.native.system.data.sqlclient.sni.4.7.0.nupkg.sha512",
