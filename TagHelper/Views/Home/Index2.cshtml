@@ -1,0 +1,18 @@
+﻿@model TeamViewModel
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<select asp-for="Team" asp-items="Model.Teams" class="form-control">
+    <option value="">انتخاب نشده</option>
+</select>
+
+<br />
+<select asp-for="Team" asp-items="Model.TeamOptionGroup" class="form-control"></select>
+
+<br />
+<select asp-for="TeamMltiple" asp-items="Model.TeamMltipleItem" class="form-control"></select>
+
+<br />
+<select asp-for="TeamEnum" asp-items="Html.GetEnumSelectList<TeamEnum>()" class="form-control">
+</select>

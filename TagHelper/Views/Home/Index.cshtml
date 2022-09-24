@@ -1,0 +1,132 @@
+﻿@model User
+@{
+    ViewData["Title"] = "Home Page";
+    Layout = null;
+}
+
+ <hr />
+
+ <form asp-controller="Home" asp-action="Index" method="post">
+     <label asp-for="Name"></label>
+     <input asp-for="Name" />
+     <br />
+
+     <label asp-for="LastName"></label>
+     <input asp-for="LastName" />
+     <br />
+
+     <label asp-for="Email"></label>
+     <input asp-for="Email" />
+     <span asp-validation-for="Email"></span>
+
+     <br />
+
+     <label asp-for="Gender"></label>
+     <input asp-for="Gender" />
+     <br />
+
+     <label asp-for="Age"></label>
+     <input asp-for="Age" />
+     <span asp-validation-for="Age"></span>
+     <br />
+
+     <label asp-for="Password"></label>
+     <input asp-for="Password" />
+     <br />
+
+     <label asp-for="WebSite"></label>
+     <input asp-for="WebSite" />
+     <br />
+
+     <label asp-for="Address.HomeAddress"></label>
+     <input asp-for="Address.HomeAddress" />
+     <br />
+
+     <label asp-for="Address.WorkAddress"></label>
+     <input asp-for="Address.WorkAddress" />
+     <br />
+     <label asp-for="Description"></label>
+     <textarea asp-for="Description"></textarea>
+
+     <input type="submit" value="Send Data" />
+ </form>
+
+@*<form  asp-route="indexRoute"method="post">
+    <label asp-for="Name"></label>
+    <input asp-for="Name" />
+</form>*@
+
+@*<form  method="post">
+    <label asp-for="Name"></label>
+    <input asp-for="Name" />
+
+    <button   asp-route="indexRoute"> Send Data</button>
+</form>*@
+ 
+<hr />
+ 
+
+
+
+
+
+@{
+    ViewData["Title"] = "Home Page";
+
+    var param = new Dictionary<string, string>
+{
+        { "Id","150" },
+        {"name" , "Ehsan" },
+        { "site" , "Ehsansz.ir"}
+    };
+}
+
+
+<a asp-action="Index" asp-controller="Home" asp-route-id="100" asp-route-name="bugeto"> My link 1 </a>
+
+<a asp-action="Index" asp-controller="Home" asp-all-route-data="param"> My link 2 </a>
+
+<a asp-action="Index" asp-controller="Home" asp-fragment="footer"> My link 3 </a>
+<a asp-action="Index" asp-controller="Home" asp-area="admin" asp-protocol="https" asp-host="bugeto.net"> My link 4 </a>
+<a asp-page="/home"> home</a>
+<a asp-page-handler="test">handler</a>
+<hr />
+
+<cache enabled="true" expires-after="TimeSpan.FromSeconds(10)">
+    <h1 style="color:#ff0000">
+        expires-after  @DateTime.Now.TimeOfDay
+    </h1>
+
+</cache>
+<br />
+<cache enabled="true" expires-sliding="TimeSpan.FromSeconds(10)">
+    <h1 style="color:#ff6a00">
+        expires-sliding   @DateTime.Now.TimeOfDay
+    </h1>
+</cache>
+
+<cache enabled="true" vary-by-query="id,name" expires-after="TimeSpan.FromSeconds(120)">
+    <h1 style="color:#ff6a00">
+        vary-by-query   @DateTime.Now.TimeOfDay
+    </h1>
+</cache>
+
+<distributed-cache name="z">
+
+</distributed-cache>
+<component></component>
+
+<environment include="Staging,Production">
+    <h2>اینجا محیط تست و یا پروداکشن است</h2>
+    <link href="~/css/site.min.css" rel="stylesheet"  asp-append-version="true"/>
+</environment>
+<environment include="Development">
+    <link href="~/css/site.css" rel="stylesheet" />
+    <h2>اینجا محیط توسعه است</h2>
+</environment>
+
+<environment exclude="Development">
+    <h2>اینجا محیط توسعه نیست!!!!!</h2>
+</environment>
+<hr />
+<img src="~/logo-c-bugeto.png" asp-append-version="true" />
