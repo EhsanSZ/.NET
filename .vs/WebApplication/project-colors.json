@@ -35,7 +35,17 @@
       "ProjectGuid": "eec65f23-0cff-4419-9217-6244fc7141c9",
       "DisplayName": "Security",
       "ColorIndex": 5
+    },
+    "285623a4-ec51-4cbd-9c8d-469de1ee8b68": {
+      "ProjectGuid": "285623a4-ec51-4cbd-9c8d-469de1ee8b68",
+      "DisplayName": "TagHelper",
+      "ColorIndex": 6
+    },
+    "e9117b1c-508b-422b-9b31-b9cec0fd8ac7": {
+      "ProjectGuid": "e9117b1c-508b-422b-9b31-b9cec0fd8ac7",
+      "DisplayName": "NLog",
+      "ColorIndex": 7
     }
   },
-  "NextColorIndex": 6
+  "NextColorIndex": 8
 }

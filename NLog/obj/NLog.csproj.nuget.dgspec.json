@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\MyProje\\ASP.Net\\asp.net core\\WebApplication\\WebApplication\\WebApplication.csproj": {}
+    "D:\\MyProje\\ASP.Net\\asp.net core\\WebApplication\\NLog\\NLog.csproj": {}
   },
   "projects": {
-    "D:\\MyProje\\ASP.Net\\asp.net core\\WebApplication\\WebApplication\\WebApplication.csproj": {
+    "D:\\MyProje\\ASP.Net\\asp.net core\\WebApplication\\NLog\\NLog.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MyProje\\ASP.Net\\asp.net core\\WebApplication\\WebApplication\\WebApplication.csproj",
-        "projectName": "WebApplication",
-        "projectPath": "D:\\MyProje\\ASP.Net\\asp.net core\\WebApplication\\WebApplication\\WebApplication.csproj",
+        "projectUniqueName": "D:\\MyProje\\ASP.Net\\asp.net core\\WebApplication\\NLog\\NLog.csproj",
+        "projectName": "NLog",
+        "projectPath": "D:\\MyProje\\ASP.Net\\asp.net core\\WebApplication\\NLog\\NLog.csproj",
         "packagesPath": "C:\\Users\\Ehsan\\.nuget\\packages\\",
-        "outputPath": "D:\\MyProje\\ASP.Net\\asp.net core\\WebApplication\\WebApplication\\obj\\",
+        "outputPath": "D:\\MyProje\\ASP.Net\\asp.net core\\WebApplication\\NLog\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ehsan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,6 +39,12 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

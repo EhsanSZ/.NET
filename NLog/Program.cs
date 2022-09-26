@@ -7,7 +7,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace WebApplication
+namespace NLog
 {
     public class Program
     {
@@ -22,5 +22,10 @@ namespace WebApplication
                 {
                     webBuilder.UseStartup<Startup>();
                 });
+               //        .ConfigureLogging(clog =>
+               // {
+               //clog.ClearProviders();
+               //})
+               //.UseNLog();
     }
 }
