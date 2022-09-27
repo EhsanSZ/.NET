@@ -1,0 +1,8 @@
+D:\MyProje\ASP.Net\asp.net core\WebApplication\TagHelper\obj\Debug\net5.0\TagHelper.csproj.AssemblyReference.cache
+D:\MyProje\ASP.Net\asp.net core\WebApplication\TagHelper\obj\Debug\net5.0\TagHelper.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProje\ASP.Net\asp.net core\WebApplication\TagHelper\obj\Debug\net5.0\TagHelper.AssemblyInfoInputs.cache
+D:\MyProje\ASP.Net\asp.net core\WebApplication\TagHelper\obj\Debug\net5.0\TagHelper.AssemblyInfo.cs
+D:\MyProje\ASP.Net\asp.net core\WebApplication\TagHelper\obj\Debug\net5.0\TagHelper.csproj.CoreCompileInputs.cache
+D:\MyProje\ASP.Net\asp.net core\WebApplication\TagHelper\obj\Debug\net5.0\TagHelper.MvcApplicationPartsAssemblyInfo.cache
+D:\MyProje\ASP.Net\asp.net core\WebApplication\TagHelper\obj\Debug\net5.0\TagHelper.RazorAssemblyInfo.cache
+D:\MyProje\ASP.Net\asp.net core\WebApplication\TagHelper\obj\Debug\net5.0\TagHelper.RazorAssemblyInfo.cs

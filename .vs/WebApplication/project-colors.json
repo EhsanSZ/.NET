@@ -45,7 +45,12 @@
       "ProjectGuid": "e9117b1c-508b-422b-9b31-b9cec0fd8ac7",
       "DisplayName": "NLog",
       "ColorIndex": 7
+    },
+    "7ca8d8b4-a62b-4472-abc2-548c341700b3": {
+      "ProjectGuid": "7ca8d8b4-a62b-4472-abc2-548c341700b3",
+      "DisplayName": "NLog",
+      "ColorIndex": 8
     }
   },
-  "NextColorIndex": 8
+  "NextColorIndex": 9
 }
