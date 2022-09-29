@@ -1,0 +1,52 @@
+﻿@using  Redis.Models.Dto;
+@model HomePageDto;
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h3 class="display-4" style="color:#0094ff"> @ViewBag.From </h3>
+
+</div>
+
+<h3 class="text-danger">بهترین محصولات</h3>
+<table class="table table-bordered table-active table-hover">
+    <thead>
+        <tr>
+            <th> شناسه</th>
+            <th> نام محصول</th>
+        </tr>
+    </thead>
+    <tbody>
+
+        @foreach (var item in Model.BestProduct.Products)
+        {
+            <tr>
+                <td> @item.Id</td>
+                <td> @item.Name</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<hr />
+
+<h3 class="text-success">جدیدترین محصولات</h3>
+<table class="table table-bordered table-active table-hover">
+    <thead>
+        <tr>
+            <th> شناسه</th>
+            <th> نام محصول</th>
+        </tr>
+    </thead>
+    <tbody>
+
+        @foreach (var item in Model.LastProduct.Products)
+        {
+            <tr>
+                <td> @item.Name</td>
+                <td> @item.Name</td>
+            </tr>
+        }
+    </tbody>
+</table>

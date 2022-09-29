@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "dgSpecHash": "BMU5JQ73HhH0bQCv8J1NJMeW3jCKBavLhdpK6t0VIajmpJH3IrU8dQ5OcrYgajKNJ1mon4ntt04+QeJxhKPSDw==",
+  "success": true,
+  "projectFilePath": "D:\\MyProje\\ASP.Net\\asp.net core\\WebApplication\\Redis\\Redis.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ehsan\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\5.0.0\\microsoft.extensions.caching.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Ehsan\\.nuget\\packages\\microsoft.extensions.caching.stackexchangeredis\\5.0.1\\microsoft.extensions.caching.stackexchangeredis.5.0.1.nupkg.sha512",
+    "C:\\Users\\Ehsan\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Ehsan\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
+    "C:\\Users\\Ehsan\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\Ehsan\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\Ehsan\\.nuget\\packages\\microsoft.win32.registry\\4.5.0\\microsoft.win32.registry.4.5.0.nupkg.sha512",
+    "C:\\Users\\Ehsan\\.nuget\\packages\\pipelines.sockets.unofficial\\2.0.17\\pipelines.sockets.unofficial.2.0.17.nupkg.sha512",
+    "C:\\Users\\Ehsan\\.nuget\\packages\\stackexchange.redis\\2.0.593\\stackexchange.redis.2.0.593.nupkg.sha512",
+    "C:\\Users\\Ehsan\\.nuget\\packages\\system.buffers\\4.4.0\\system.buffers.4.4.0.nupkg.sha512",
+    "C:\\Users\\Ehsan\\.nuget\\packages\\system.configuration.configurationmanager\\4.5.0\\system.configuration.configurationmanager.4.5.0.nupkg.sha512",
+    "C:\\Users\\Ehsan\\.nuget\\packages\\system.diagnostics.performancecounter\\4.5.0\\system.diagnostics.performancecounter.4.5.0.nupkg.sha512",
+    "C:\\Users\\Ehsan\\.nuget\\packages\\system.io.pipelines\\4.5.1\\system.io.pipelines.4.5.1.nupkg.sha512",
+    "C:\\Users\\Ehsan\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "C:\\Users\\Ehsan\\.nuget\\packages\\system.security.accesscontrol\\4.5.0\\system.security.accesscontrol.4.5.0.nupkg.sha512",
+    "C:\\Users\\Ehsan\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.5.0\\system.security.cryptography.protecteddata.4.5.0.nupkg.sha512",
+    "C:\\Users\\Ehsan\\.nuget\\packages\\system.security.permissions\\4.5.0\\system.security.permissions.4.5.0.nupkg.sha512",
+    "C:\\Users\\Ehsan\\.nuget\\packages\\system.security.principal.windows\\4.5.0\\system.security.principal.windows.4.5.0.nupkg.sha512",
+    "C:\\Users\\Ehsan\\.nuget\\packages\\system.threading.channels\\4.5.0\\system.threading.channels.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
