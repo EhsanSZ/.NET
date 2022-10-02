@@ -1,0 +1,18 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+@model DateTime?
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+<a asp-action="Index" class="btn btn-success">تلاش برای دریافت و ایجاد</a>
+<a asp-action="RemoveCache" class="btn btn-danger"> حذف کش</a>
+<a asp-action="GetCache" class="btn btn-primary"> دریافت کش  </a>
+<a asp-action="GetOrCreateCache" class="btn btn-primary"> دریافت یا ایجاد کش </a>
+<a asp-action="GetOrCreateCacheAsynchronous" class="btn btn-primary">  Asynchronous  </a>
+
+
+<h1 style="color:brown"> زمان سرور (حالا) : @DateTime.Now</h1>
+<h1 style="color:#4cff00"> مقدار کش : @(Model ==null ? "کش خالی است": Model.ToString())</h1>

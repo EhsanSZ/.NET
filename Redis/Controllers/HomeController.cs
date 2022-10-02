@@ -3,8 +3,6 @@ using Microsoft.Extensions.Caching.Distributed;
 using Microsoft.Extensions.Logging;
 using Redis.Models;
 using Redis.Models.Dto;
-using RedisCacheInAspNetCore.Bugeto.Models;
-using RedisCacheInAspNetCore.Bugeto.Models.Dto;
 using System;
 using System.Collections.Generic;
 using System.Diagnostics;

@@ -55,7 +55,12 @@
       "ProjectGuid": "21537d59-1599-40f2-af2c-694e93bfa5a7",
       "DisplayName": "SignalR",
       "ColorIndex": 9
+    },
+    "09791136-9cd7-4ce3-9008-8d0ff45510f3": {
+      "ProjectGuid": "09791136-9cd7-4ce3-9008-8d0ff45510f3",
+      "DisplayName": "Redis",
+      "ColorIndex": 10
     }
   },
-  "NextColorIndex": 10
+  "NextColorIndex": 11
 }
