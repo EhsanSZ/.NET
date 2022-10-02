@@ -60,7 +60,12 @@
       "ProjectGuid": "09791136-9cd7-4ce3-9008-8d0ff45510f3",
       "DisplayName": "Redis",
       "ColorIndex": 10
+    },
+    "02dc3011-4c48-423b-9409-610378eb09e7": {
+      "ProjectGuid": "02dc3011-4c48-423b-9409-610378eb09e7",
+      "DisplayName": "Performance",
+      "ColorIndex": 11
     }
   },
-  "NextColorIndex": 11
+  "NextColorIndex": 12
 }

@@ -16,7 +16,7 @@ namespace Performance.Controllers
 
         public IActionResult Index()
         {
-            string myValue = ""; ;
+            string myValue = ""; 
             var myValueEncoded = _cache.Get("myCacheKey");
             if (myValueEncoded != null)
             {
