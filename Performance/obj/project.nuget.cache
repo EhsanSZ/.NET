@@ -1,8 +1,28 @@
 {
   "version": 2,
-  "dgSpecHash": "IfkwDETUG5y3UEVlRg3Px4dIMYvEsfUpRCRu13WcEvdFHrxhI+wbxpT/9xjinaS8pugp1h5IKwloZg096i1zyA==",
+  "dgSpecHash": "byhGgW0qcd1M5BB1AnDIUq3/ATgIoOm7WFBL/2RsW/JeIY4q25qvDD7HVS6oUTjmjpFqPApNZtjHoVfTDZNN6g==",
   "success": true,
   "projectFilePath": "D:\\MyProje\\ASP.Net\\asp.net core\\WebApplication\\Performance\\Performance.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Ehsan\\.nuget\\packages\\advancedstringbuilder\\0.1.0\\advancedstringbuilder.0.1.0.nupkg.sha512",
+    "C:\\Users\\Ehsan\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\Ehsan\\.nuget\\packages\\microsoft.aspnetcore.http.extensions\\2.2.0\\microsoft.aspnetcore.http.extensions.2.2.0.nupkg.sha512",
+    "C:\\Users\\Ehsan\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
+    "C:\\Users\\Ehsan\\.nuget\\packages\\microsoft.aspnetcore.responsecompression\\2.2.0\\microsoft.aspnetcore.responsecompression.2.2.0.nupkg.sha512",
+    "C:\\Users\\Ehsan\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.2.0\\microsoft.extensions.dependencyinjection.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\Ehsan\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\2.2.0\\microsoft.extensions.fileproviders.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\Ehsan\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\2.2.0\\microsoft.extensions.logging.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\Ehsan\\.nuget\\packages\\microsoft.extensions.options\\2.2.0\\microsoft.extensions.options.2.2.0.nupkg.sha512",
+    "C:\\Users\\Ehsan\\.nuget\\packages\\microsoft.extensions.primitives\\2.2.0\\microsoft.extensions.primitives.2.2.0.nupkg.sha512",
+    "C:\\Users\\Ehsan\\.nuget\\packages\\microsoft.net.http.headers\\2.2.0\\microsoft.net.http.headers.2.2.0.nupkg.sha512",
+    "C:\\Users\\Ehsan\\.nuget\\packages\\system.buffers\\4.5.0\\system.buffers.4.5.0.nupkg.sha512",
+    "C:\\Users\\Ehsan\\.nuget\\packages\\system.componentmodel.annotations\\4.5.0\\system.componentmodel.annotations.4.5.0.nupkg.sha512",
+    "C:\\Users\\Ehsan\\.nuget\\packages\\system.memory\\4.5.1\\system.memory.4.5.1.nupkg.sha512",
+    "C:\\Users\\Ehsan\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.1\\system.runtime.compilerservices.unsafe.4.5.1.nupkg.sha512",
+    "C:\\Users\\Ehsan\\.nuget\\packages\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512",
+    "C:\\Users\\Ehsan\\.nuget\\packages\\webmarkupmin.aspnet.common\\2.12.0\\webmarkupmin.aspnet.common.2.12.0.nupkg.sha512",
+    "C:\\Users\\Ehsan\\.nuget\\packages\\webmarkupmin.aspnetcore5\\2.12.0\\webmarkupmin.aspnetcore5.2.12.0.nupkg.sha512",
+    "C:\\Users\\Ehsan\\.nuget\\packages\\webmarkupmin.core\\2.12.0\\webmarkupmin.core.2.12.0.nupkg.sha512"
+  ],
   "logs": []
 }

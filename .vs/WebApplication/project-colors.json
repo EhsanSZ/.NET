@@ -65,7 +65,12 @@
       "ProjectGuid": "02dc3011-4c48-423b-9409-610378eb09e7",
       "DisplayName": "Performance",
       "ColorIndex": 11
+    },
+    "1544286e-9cea-4896-b7f8-f0132656e13c": {
+      "ProjectGuid": "1544286e-9cea-4896-b7f8-f0132656e13c",
+      "DisplayName": "Middleware",
+      "ColorIndex": 12
     }
   },
-  "NextColorIndex": 12
+  "NextColorIndex": 13
 }

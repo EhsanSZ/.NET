@@ -39,6 +39,16 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.ResponseCompression": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "WebMarkupMin.AspNetCore5": {
+              "target": "Package",
+              "version": "[2.12.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

@@ -4,8 +4,15 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>@ViewData["Title"] - Performance</title>
-    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
-    <link rel="stylesheet" href="~/css/site.css" />
+<environment names="Development">
+        <link rel="stylesheet" href="~/css/site.css" />
+        <link href="~/css/StyleSheet.css" rel="stylesheet" />
+        <link href="~/css/StyleSheet1.css" rel="stylesheet" />
+    </environment>
+
+    <environment names="Staging,Production">
+        <link href="~/css/AllSiteCss.min.css" rel="stylesheet" />
+    </environment>
 </head>
 <body>
     <header>

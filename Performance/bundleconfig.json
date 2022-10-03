@@ -1,0 +1,18 @@
+[
+  {
+    "outputFileName": "wwwroot/css/AllSiteCss.css",
+    "inputFiles": [
+      "wwwroot/css/site.css",
+      "wwwroot/css/StyleSheet.css",
+      "wwwroot/css/StyleSheet1.css"
+    ]
+  },
+  {
+    "outputFileName": "wwwroot/js/AllSiteJs.js",
+    "inputFiles": [
+      "wwwroot/js/JavaScript.js",
+      "wwwroot/js/JavaScript1.js",
+      "wwwroot/js/site.js"
+    ]
+  }
+]
