@@ -70,7 +70,12 @@
       "ProjectGuid": "1544286e-9cea-4896-b7f8-f0132656e13c",
       "DisplayName": "Middleware",
       "ColorIndex": 12
+    },
+    "3839d648-2e65-4c38-86ec-a0ec7b95a865": {
+      "ProjectGuid": "3839d648-2e65-4c38-86ec-a0ec7b95a865",
+      "DisplayName": "QueryEF",
+      "ColorIndex": 13
     }
   },
-  "NextColorIndex": 13
+  "NextColorIndex": 14
 }
