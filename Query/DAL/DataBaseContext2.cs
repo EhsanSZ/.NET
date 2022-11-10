@@ -1,4 +1,4 @@
-﻿using Entities;
+﻿using Entities2;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Diagnostics;
 

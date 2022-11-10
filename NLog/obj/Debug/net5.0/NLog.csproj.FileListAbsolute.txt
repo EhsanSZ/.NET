@@ -10,7 +10,6 @@ D:\MyProje\ASP.Net\asp.net core\WebApplication\NLog\bin\Debug\net5.0\NLog.deps.j
 D:\MyProje\ASP.Net\asp.net core\WebApplication\NLog\bin\Debug\net5.0\NLog.runtimeconfig.json
 D:\MyProje\ASP.Net\asp.net core\WebApplication\NLog\bin\Debug\net5.0\NLog.runtimeconfig.dev.json
 D:\MyProje\ASP.Net\asp.net core\WebApplication\NLog\bin\Debug\net5.0\NLog.dll
-D:\MyProje\ASP.Net\asp.net core\WebApplication\NLog\bin\Debug\net5.0\ref\NLog.dll
 D:\MyProje\ASP.Net\asp.net core\WebApplication\NLog\bin\Debug\net5.0\NLog.pdb
 D:\MyProje\ASP.Net\asp.net core\WebApplication\NLog\bin\Debug\net5.0\NLog.Views.dll
 D:\MyProje\ASP.Net\asp.net core\WebApplication\NLog\bin\Debug\net5.0\NLog.Views.pdb
@@ -48,3 +47,4 @@ D:\MyProje\ASP.Net\asp.net core\WebApplication\NLog\obj\Debug\net5.0\NLog.dll
 D:\MyProje\ASP.Net\asp.net core\WebApplication\NLog\obj\Debug\net5.0\ref\NLog.dll
 D:\MyProje\ASP.Net\asp.net core\WebApplication\NLog\obj\Debug\net5.0\NLog.pdb
 D:\MyProje\ASP.Net\asp.net core\WebApplication\NLog\obj\Debug\net5.0\NLog.genruntimeconfig.cache
+D:\MyProje\ASP.Net\asp.net core\WebApplication\NLog\obj\Debug\net5.0\refint\NLog.dll

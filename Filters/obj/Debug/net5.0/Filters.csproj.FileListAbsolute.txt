@@ -5,7 +5,6 @@ D:\MyProje\ASP.Net\asp.net core\WebApplication\Filters\bin\Debug\net5.0\Filters.
 D:\MyProje\ASP.Net\asp.net core\WebApplication\Filters\bin\Debug\net5.0\Filters.runtimeconfig.json
 D:\MyProje\ASP.Net\asp.net core\WebApplication\Filters\bin\Debug\net5.0\Filters.runtimeconfig.dev.json
 D:\MyProje\ASP.Net\asp.net core\WebApplication\Filters\bin\Debug\net5.0\Filters.dll
-D:\MyProje\ASP.Net\asp.net core\WebApplication\Filters\bin\Debug\net5.0\ref\Filters.dll
 D:\MyProje\ASP.Net\asp.net core\WebApplication\Filters\bin\Debug\net5.0\Filters.pdb
 D:\MyProje\ASP.Net\asp.net core\WebApplication\Filters\bin\Debug\net5.0\Filters.Views.dll
 D:\MyProje\ASP.Net\asp.net core\WebApplication\Filters\bin\Debug\net5.0\Filters.Views.pdb
@@ -37,3 +36,4 @@ D:\MyProje\ASP.Net\asp.net core\WebApplication\Filters\obj\Debug\net5.0\ref\Filt
 D:\MyProje\ASP.Net\asp.net core\WebApplication\Filters\obj\Debug\net5.0\Filters.pdb
 D:\MyProje\ASP.Net\asp.net core\WebApplication\Filters\obj\Debug\net5.0\Filters.genruntimeconfig.cache
 D:\MyProje\ASP.Net\asp.net core\WebApplication\Filters\obj\Debug\net5.0\Filters.csproj.CopyComplete
+D:\MyProje\ASP.Net\asp.net core\WebApplication\Filters\obj\Debug\net5.0\refint\Filters.dll

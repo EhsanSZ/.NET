@@ -1,3 +1,13 @@
+D:\MyProje\ASP.Net\asp.net core\WebApplication\ModelBinding\bin\Debug\net5.0\appsettings.Development.json
+D:\MyProje\ASP.Net\asp.net core\WebApplication\ModelBinding\bin\Debug\net5.0\appsettings.json
+D:\MyProje\ASP.Net\asp.net core\WebApplication\ModelBinding\bin\Debug\net5.0\ModelBinding.exe
+D:\MyProje\ASP.Net\asp.net core\WebApplication\ModelBinding\bin\Debug\net5.0\ModelBinding.deps.json
+D:\MyProje\ASP.Net\asp.net core\WebApplication\ModelBinding\bin\Debug\net5.0\ModelBinding.runtimeconfig.json
+D:\MyProje\ASP.Net\asp.net core\WebApplication\ModelBinding\bin\Debug\net5.0\ModelBinding.runtimeconfig.dev.json
+D:\MyProje\ASP.Net\asp.net core\WebApplication\ModelBinding\bin\Debug\net5.0\ModelBinding.dll
+D:\MyProje\ASP.Net\asp.net core\WebApplication\ModelBinding\bin\Debug\net5.0\ModelBinding.pdb
+D:\MyProje\ASP.Net\asp.net core\WebApplication\ModelBinding\bin\Debug\net5.0\ModelBinding.Views.dll
+D:\MyProje\ASP.Net\asp.net core\WebApplication\ModelBinding\bin\Debug\net5.0\ModelBinding.Views.pdb
 D:\MyProje\ASP.Net\asp.net core\WebApplication\ModelBinding\obj\Debug\net5.0\ModelBinding.csproj.AssemblyReference.cache
 D:\MyProje\ASP.Net\asp.net core\WebApplication\ModelBinding\obj\Debug\net5.0\ModelBinding.GeneratedMSBuildEditorConfig.editorconfig
 D:\MyProje\ASP.Net\asp.net core\WebApplication\ModelBinding\obj\Debug\net5.0\ModelBinding.AssemblyInfoInputs.cache
@@ -22,6 +32,10 @@ D:\MyProje\ASP.Net\asp.net core\WebApplication\ModelBinding\obj\Debug\net5.0\Raz
 D:\MyProje\ASP.Net\asp.net core\WebApplication\ModelBinding\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
 D:\MyProje\ASP.Net\asp.net core\WebApplication\ModelBinding\obj\Debug\net5.0\ModelBinding.RazorTargetAssemblyInfo.cache
 D:\MyProje\ASP.Net\asp.net core\WebApplication\ModelBinding\obj\Debug\net5.0\ModelBinding.RazorTargetAssemblyInfo.cs
+D:\MyProje\ASP.Net\asp.net core\WebApplication\ModelBinding\obj\Debug\net5.0\ModelBinding.Views.pdb
 D:\MyProje\ASP.Net\asp.net core\WebApplication\ModelBinding\obj\Debug\net5.0\ModelBinding.dll
-D:\MyProje\ASP.Net\asp.net core\WebApplication\ModelBinding\obj\Debug\net5.0\ref\ModelBinding.dll
+D:\MyProje\ASP.Net\asp.net core\WebApplication\ModelBinding\obj\Debug\net5.0\refint\ModelBinding.dll
 D:\MyProje\ASP.Net\asp.net core\WebApplication\ModelBinding\obj\Debug\net5.0\ModelBinding.pdb
+D:\MyProje\ASP.Net\asp.net core\WebApplication\ModelBinding\obj\Debug\net5.0\ModelBinding.genruntimeconfig.cache
+D:\MyProje\ASP.Net\asp.net core\WebApplication\ModelBinding\obj\Debug\net5.0\ref\ModelBinding.dll
+D:\MyProje\ASP.Net\asp.net core\WebApplication\ModelBinding\obj\Debug\net5.0\ModelBinding.csproj.CopyComplete

@@ -4,13 +4,13 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using SignalR.Contexts;
 using SignalR.Models;
-using SignalR.Bugeto.Models.Entities;
 using System;
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
 using System.Security.Claims;
 using System.Threading.Tasks;
+using SignalR.Models.Entities;
 
 namespace SignalR.Bugeto.Controllers
 {

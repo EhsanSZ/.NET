@@ -1,8 +1,0 @@
-D:\MyProje\ASP.Net\asp.net core\WebApplication\RazorPages\obj\Debug\net5.0\RazorPages.csproj.AssemblyReference.cache
-D:\MyProje\ASP.Net\asp.net core\WebApplication\RazorPages\obj\Debug\net5.0\RazorPages.GeneratedMSBuildEditorConfig.editorconfig
-D:\MyProje\ASP.Net\asp.net core\WebApplication\RazorPages\obj\Debug\net5.0\RazorPages.AssemblyInfoInputs.cache
-D:\MyProje\ASP.Net\asp.net core\WebApplication\RazorPages\obj\Debug\net5.0\RazorPages.AssemblyInfo.cs
-D:\MyProje\ASP.Net\asp.net core\WebApplication\RazorPages\obj\Debug\net5.0\RazorPages.csproj.CoreCompileInputs.cache
-D:\MyProje\ASP.Net\asp.net core\WebApplication\RazorPages\obj\Debug\net5.0\RazorPages.MvcApplicationPartsAssemblyInfo.cache
-D:\MyProje\ASP.Net\asp.net core\WebApplication\RazorPages\obj\Debug\net5.0\RazorPages.RazorAssemblyInfo.cache
-D:\MyProje\ASP.Net\asp.net core\WebApplication\RazorPages\obj\Debug\net5.0\RazorPages.RazorAssemblyInfo.cs

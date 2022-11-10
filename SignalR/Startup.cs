@@ -7,14 +7,14 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using SignalR.Contexts;
-using SignalR.Bugeto.Hubs;
 using SignalR.Models.Services;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using SignalR.Hubs;
 
-namespace SignalR.Bugeto
+namespace SignalR
 {
     public class Startup
     {
@@ -30,9 +30,6 @@ namespace SignalR.Bugeto
         {
             var mvcBuilder = services.AddControllersWithViews();
 
-#if DEBUG
-            mvcBuilder.AddRazorRuntimeCompilation();
-#endif
             services.AddSignalR();
 
 

@@ -75,7 +75,12 @@
       "ProjectGuid": "3839d648-2e65-4c38-86ec-a0ec7b95a865",
       "DisplayName": "QueryEF",
       "ColorIndex": 13
+    },
+    "93585ab3-e522-4972-8de0-4808168965d0": {
+      "ProjectGuid": "93585ab3-e522-4972-8de0-4808168965d0",
+      "DisplayName": "Query",
+      "ColorIndex": 14
     }
   },
-  "NextColorIndex": 14
+  "NextColorIndex": 15
 }
