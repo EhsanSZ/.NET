@@ -1,0 +1,16 @@
+D:\MyProje\DesignPatterns\Design-Pattern\Prototype\ImplementationPrototype\bin\Debug\net5.0\ImplementationPrototype.exe
+D:\MyProje\DesignPatterns\Design-Pattern\Prototype\ImplementationPrototype\bin\Debug\net5.0\ImplementationPrototype.deps.json
+D:\MyProje\DesignPatterns\Design-Pattern\Prototype\ImplementationPrototype\bin\Debug\net5.0\ImplementationPrototype.runtimeconfig.json
+D:\MyProje\DesignPatterns\Design-Pattern\Prototype\ImplementationPrototype\bin\Debug\net5.0\ImplementationPrototype.runtimeconfig.dev.json
+D:\MyProje\DesignPatterns\Design-Pattern\Prototype\ImplementationPrototype\bin\Debug\net5.0\ImplementationPrototype.dll
+D:\MyProje\DesignPatterns\Design-Pattern\Prototype\ImplementationPrototype\bin\Debug\net5.0\ImplementationPrototype.pdb
+D:\MyProje\DesignPatterns\Design-Pattern\Prototype\ImplementationPrototype\obj\Debug\net5.0\ImplementationPrototype.csproj.AssemblyReference.cache
+D:\MyProje\DesignPatterns\Design-Pattern\Prototype\ImplementationPrototype\obj\Debug\net5.0\ImplementationPrototype.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProje\DesignPatterns\Design-Pattern\Prototype\ImplementationPrototype\obj\Debug\net5.0\ImplementationPrototype.AssemblyInfoInputs.cache
+D:\MyProje\DesignPatterns\Design-Pattern\Prototype\ImplementationPrototype\obj\Debug\net5.0\ImplementationPrototype.AssemblyInfo.cs
+D:\MyProje\DesignPatterns\Design-Pattern\Prototype\ImplementationPrototype\obj\Debug\net5.0\ImplementationPrototype.csproj.CoreCompileInputs.cache
+D:\MyProje\DesignPatterns\Design-Pattern\Prototype\ImplementationPrototype\obj\Debug\net5.0\ImplementationPrototype.dll
+D:\MyProje\DesignPatterns\Design-Pattern\Prototype\ImplementationPrototype\obj\Debug\net5.0\refint\ImplementationPrototype.dll
+D:\MyProje\DesignPatterns\Design-Pattern\Prototype\ImplementationPrototype\obj\Debug\net5.0\ImplementationPrototype.pdb
+D:\MyProje\DesignPatterns\Design-Pattern\Prototype\ImplementationPrototype\obj\Debug\net5.0\ImplementationPrototype.genruntimeconfig.cache
+D:\MyProje\DesignPatterns\Design-Pattern\Prototype\ImplementationPrototype\obj\Debug\net5.0\ref\ImplementationPrototype.dll

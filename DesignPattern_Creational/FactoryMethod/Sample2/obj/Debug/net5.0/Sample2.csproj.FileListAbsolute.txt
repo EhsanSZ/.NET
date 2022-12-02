@@ -1,0 +1,16 @@
+D:\MyProje\DesignPatterns\Design-Pattern\FactoryMethod\Sample2\bin\Debug\net5.0\Sample2.exe
+D:\MyProje\DesignPatterns\Design-Pattern\FactoryMethod\Sample2\bin\Debug\net5.0\Sample2.deps.json
+D:\MyProje\DesignPatterns\Design-Pattern\FactoryMethod\Sample2\bin\Debug\net5.0\Sample2.runtimeconfig.json
+D:\MyProje\DesignPatterns\Design-Pattern\FactoryMethod\Sample2\bin\Debug\net5.0\Sample2.runtimeconfig.dev.json
+D:\MyProje\DesignPatterns\Design-Pattern\FactoryMethod\Sample2\bin\Debug\net5.0\Sample2.dll
+D:\MyProje\DesignPatterns\Design-Pattern\FactoryMethod\Sample2\bin\Debug\net5.0\Sample2.pdb
+D:\MyProje\DesignPatterns\Design-Pattern\FactoryMethod\Sample2\obj\Debug\net5.0\Sample2.csproj.AssemblyReference.cache
+D:\MyProje\DesignPatterns\Design-Pattern\FactoryMethod\Sample2\obj\Debug\net5.0\Sample2.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProje\DesignPatterns\Design-Pattern\FactoryMethod\Sample2\obj\Debug\net5.0\Sample2.AssemblyInfoInputs.cache
+D:\MyProje\DesignPatterns\Design-Pattern\FactoryMethod\Sample2\obj\Debug\net5.0\Sample2.AssemblyInfo.cs
+D:\MyProje\DesignPatterns\Design-Pattern\FactoryMethod\Sample2\obj\Debug\net5.0\Sample2.csproj.CoreCompileInputs.cache
+D:\MyProje\DesignPatterns\Design-Pattern\FactoryMethod\Sample2\obj\Debug\net5.0\Sample2.dll
+D:\MyProje\DesignPatterns\Design-Pattern\FactoryMethod\Sample2\obj\Debug\net5.0\refint\Sample2.dll
+D:\MyProje\DesignPatterns\Design-Pattern\FactoryMethod\Sample2\obj\Debug\net5.0\Sample2.pdb
+D:\MyProje\DesignPatterns\Design-Pattern\FactoryMethod\Sample2\obj\Debug\net5.0\Sample2.genruntimeconfig.cache
+D:\MyProje\DesignPatterns\Design-Pattern\FactoryMethod\Sample2\obj\Debug\net5.0\ref\Sample2.dll

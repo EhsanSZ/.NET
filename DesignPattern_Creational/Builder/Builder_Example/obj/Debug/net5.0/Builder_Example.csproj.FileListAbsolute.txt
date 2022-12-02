@@ -1,0 +1,16 @@
+D:\MyProje\DesignPatterns\Design-Pattern\Builder\Builder_Example\bin\Debug\net5.0\Builder_Example.exe
+D:\MyProje\DesignPatterns\Design-Pattern\Builder\Builder_Example\bin\Debug\net5.0\Builder_Example.deps.json
+D:\MyProje\DesignPatterns\Design-Pattern\Builder\Builder_Example\bin\Debug\net5.0\Builder_Example.runtimeconfig.json
+D:\MyProje\DesignPatterns\Design-Pattern\Builder\Builder_Example\bin\Debug\net5.0\Builder_Example.runtimeconfig.dev.json
+D:\MyProje\DesignPatterns\Design-Pattern\Builder\Builder_Example\bin\Debug\net5.0\Builder_Example.dll
+D:\MyProje\DesignPatterns\Design-Pattern\Builder\Builder_Example\bin\Debug\net5.0\Builder_Example.pdb
+D:\MyProje\DesignPatterns\Design-Pattern\Builder\Builder_Example\obj\Debug\net5.0\Builder_Example.csproj.AssemblyReference.cache
+D:\MyProje\DesignPatterns\Design-Pattern\Builder\Builder_Example\obj\Debug\net5.0\Builder_Example.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProje\DesignPatterns\Design-Pattern\Builder\Builder_Example\obj\Debug\net5.0\Builder_Example.AssemblyInfoInputs.cache
+D:\MyProje\DesignPatterns\Design-Pattern\Builder\Builder_Example\obj\Debug\net5.0\Builder_Example.AssemblyInfo.cs
+D:\MyProje\DesignPatterns\Design-Pattern\Builder\Builder_Example\obj\Debug\net5.0\Builder_Example.csproj.CoreCompileInputs.cache
+D:\MyProje\DesignPatterns\Design-Pattern\Builder\Builder_Example\obj\Debug\net5.0\Builder_Example.dll
+D:\MyProje\DesignPatterns\Design-Pattern\Builder\Builder_Example\obj\Debug\net5.0\refint\Builder_Example.dll
+D:\MyProje\DesignPatterns\Design-Pattern\Builder\Builder_Example\obj\Debug\net5.0\Builder_Example.pdb
+D:\MyProje\DesignPatterns\Design-Pattern\Builder\Builder_Example\obj\Debug\net5.0\Builder_Example.genruntimeconfig.cache
+D:\MyProje\DesignPatterns\Design-Pattern\Builder\Builder_Example\obj\Debug\net5.0\ref\Builder_Example.dll
