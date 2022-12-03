@@ -1,0 +1,16 @@
+D:\MyProje\DesignPatterns\Design-Pattern\Facade\Facade_Console\bin\Debug\net5.0\Facade_Console.exe
+D:\MyProje\DesignPatterns\Design-Pattern\Facade\Facade_Console\bin\Debug\net5.0\Facade_Console.deps.json
+D:\MyProje\DesignPatterns\Design-Pattern\Facade\Facade_Console\bin\Debug\net5.0\Facade_Console.runtimeconfig.json
+D:\MyProje\DesignPatterns\Design-Pattern\Facade\Facade_Console\bin\Debug\net5.0\Facade_Console.runtimeconfig.dev.json
+D:\MyProje\DesignPatterns\Design-Pattern\Facade\Facade_Console\bin\Debug\net5.0\Facade_Console.dll
+D:\MyProje\DesignPatterns\Design-Pattern\Facade\Facade_Console\bin\Debug\net5.0\Facade_Console.pdb
+D:\MyProje\DesignPatterns\Design-Pattern\Facade\Facade_Console\obj\Debug\net5.0\Facade_Console.csproj.AssemblyReference.cache
+D:\MyProje\DesignPatterns\Design-Pattern\Facade\Facade_Console\obj\Debug\net5.0\Facade_Console.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProje\DesignPatterns\Design-Pattern\Facade\Facade_Console\obj\Debug\net5.0\Facade_Console.AssemblyInfoInputs.cache
+D:\MyProje\DesignPatterns\Design-Pattern\Facade\Facade_Console\obj\Debug\net5.0\Facade_Console.AssemblyInfo.cs
+D:\MyProje\DesignPatterns\Design-Pattern\Facade\Facade_Console\obj\Debug\net5.0\Facade_Console.csproj.CoreCompileInputs.cache
+D:\MyProje\DesignPatterns\Design-Pattern\Facade\Facade_Console\obj\Debug\net5.0\Facade_Console.dll
+D:\MyProje\DesignPatterns\Design-Pattern\Facade\Facade_Console\obj\Debug\net5.0\refint\Facade_Console.dll
+D:\MyProje\DesignPatterns\Design-Pattern\Facade\Facade_Console\obj\Debug\net5.0\Facade_Console.pdb
+D:\MyProje\DesignPatterns\Design-Pattern\Facade\Facade_Console\obj\Debug\net5.0\Facade_Console.genruntimeconfig.cache
+D:\MyProje\DesignPatterns\Design-Pattern\Facade\Facade_Console\obj\Debug\net5.0\ref\Facade_Console.dll

@@ -1,0 +1,16 @@
+D:\MyProje\DesignPatterns\Design-Pattern\Adapter\Adapter_Example1\Implementation.ObjectAdapter\bin\Debug\net5.0\Implementation.ObjectAdapter.exe
+D:\MyProje\DesignPatterns\Design-Pattern\Adapter\Adapter_Example1\Implementation.ObjectAdapter\bin\Debug\net5.0\Implementation.ObjectAdapter.deps.json
+D:\MyProje\DesignPatterns\Design-Pattern\Adapter\Adapter_Example1\Implementation.ObjectAdapter\bin\Debug\net5.0\Implementation.ObjectAdapter.runtimeconfig.json
+D:\MyProje\DesignPatterns\Design-Pattern\Adapter\Adapter_Example1\Implementation.ObjectAdapter\bin\Debug\net5.0\Implementation.ObjectAdapter.runtimeconfig.dev.json
+D:\MyProje\DesignPatterns\Design-Pattern\Adapter\Adapter_Example1\Implementation.ObjectAdapter\bin\Debug\net5.0\Implementation.ObjectAdapter.dll
+D:\MyProje\DesignPatterns\Design-Pattern\Adapter\Adapter_Example1\Implementation.ObjectAdapter\bin\Debug\net5.0\Implementation.ObjectAdapter.pdb
+D:\MyProje\DesignPatterns\Design-Pattern\Adapter\Adapter_Example1\Implementation.ObjectAdapter\obj\Debug\net5.0\Implementation.ObjectAdapter.csproj.AssemblyReference.cache
+D:\MyProje\DesignPatterns\Design-Pattern\Adapter\Adapter_Example1\Implementation.ObjectAdapter\obj\Debug\net5.0\Implementation.ObjectAdapter.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProje\DesignPatterns\Design-Pattern\Adapter\Adapter_Example1\Implementation.ObjectAdapter\obj\Debug\net5.0\Implementation.ObjectAdapter.AssemblyInfoInputs.cache
+D:\MyProje\DesignPatterns\Design-Pattern\Adapter\Adapter_Example1\Implementation.ObjectAdapter\obj\Debug\net5.0\Implementation.ObjectAdapter.AssemblyInfo.cs
+D:\MyProje\DesignPatterns\Design-Pattern\Adapter\Adapter_Example1\Implementation.ObjectAdapter\obj\Debug\net5.0\Implementation.ObjectAdapter.csproj.CoreCompileInputs.cache
+D:\MyProje\DesignPatterns\Design-Pattern\Adapter\Adapter_Example1\Implementation.ObjectAdapter\obj\Debug\net5.0\Implementation.ObjectAdapter.dll
+D:\MyProje\DesignPatterns\Design-Pattern\Adapter\Adapter_Example1\Implementation.ObjectAdapter\obj\Debug\net5.0\refint\Implementation.ObjectAdapter.dll
+D:\MyProje\DesignPatterns\Design-Pattern\Adapter\Adapter_Example1\Implementation.ObjectAdapter\obj\Debug\net5.0\Implementation.ObjectAdapter.pdb
+D:\MyProje\DesignPatterns\Design-Pattern\Adapter\Adapter_Example1\Implementation.ObjectAdapter\obj\Debug\net5.0\Implementation.ObjectAdapter.genruntimeconfig.cache
+D:\MyProje\DesignPatterns\Design-Pattern\Adapter\Adapter_Example1\Implementation.ObjectAdapter\obj\Debug\net5.0\ref\Implementation.ObjectAdapter.dll

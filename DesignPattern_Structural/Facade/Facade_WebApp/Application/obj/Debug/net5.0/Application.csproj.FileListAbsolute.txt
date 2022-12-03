@@ -1,0 +1,12 @@
+D:\MyProje\DesignPatterns\Design-Pattern\Facade\Facade_WebApp\Application\bin\Debug\net5.0\Application.deps.json
+D:\MyProje\DesignPatterns\Design-Pattern\Facade\Facade_WebApp\Application\bin\Debug\net5.0\Application.dll
+D:\MyProje\DesignPatterns\Design-Pattern\Facade\Facade_WebApp\Application\bin\Debug\net5.0\Application.pdb
+D:\MyProje\DesignPatterns\Design-Pattern\Facade\Facade_WebApp\Application\obj\Debug\net5.0\Application.csproj.AssemblyReference.cache
+D:\MyProje\DesignPatterns\Design-Pattern\Facade\Facade_WebApp\Application\obj\Debug\net5.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProje\DesignPatterns\Design-Pattern\Facade\Facade_WebApp\Application\obj\Debug\net5.0\Application.AssemblyInfoInputs.cache
+D:\MyProje\DesignPatterns\Design-Pattern\Facade\Facade_WebApp\Application\obj\Debug\net5.0\Application.AssemblyInfo.cs
+D:\MyProje\DesignPatterns\Design-Pattern\Facade\Facade_WebApp\Application\obj\Debug\net5.0\Application.csproj.CoreCompileInputs.cache
+D:\MyProje\DesignPatterns\Design-Pattern\Facade\Facade_WebApp\Application\obj\Debug\net5.0\Application.dll
+D:\MyProje\DesignPatterns\Design-Pattern\Facade\Facade_WebApp\Application\obj\Debug\net5.0\refint\Application.dll
+D:\MyProje\DesignPatterns\Design-Pattern\Facade\Facade_WebApp\Application\obj\Debug\net5.0\Application.pdb
+D:\MyProje\DesignPatterns\Design-Pattern\Facade\Facade_WebApp\Application\obj\Debug\net5.0\ref\Application.dll

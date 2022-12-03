@@ -1,0 +1,16 @@
+D:\MyProje\DesignPatterns\Design-Pattern\Bridge\Bridge_uml_ex1\bin\Debug\net5.0\Bridge_uml_ex1.exe
+D:\MyProje\DesignPatterns\Design-Pattern\Bridge\Bridge_uml_ex1\bin\Debug\net5.0\Bridge_uml_ex1.deps.json
+D:\MyProje\DesignPatterns\Design-Pattern\Bridge\Bridge_uml_ex1\bin\Debug\net5.0\Bridge_uml_ex1.runtimeconfig.json
+D:\MyProje\DesignPatterns\Design-Pattern\Bridge\Bridge_uml_ex1\bin\Debug\net5.0\Bridge_uml_ex1.runtimeconfig.dev.json
+D:\MyProje\DesignPatterns\Design-Pattern\Bridge\Bridge_uml_ex1\bin\Debug\net5.0\Bridge_uml_ex1.dll
+D:\MyProje\DesignPatterns\Design-Pattern\Bridge\Bridge_uml_ex1\bin\Debug\net5.0\Bridge_uml_ex1.pdb
+D:\MyProje\DesignPatterns\Design-Pattern\Bridge\Bridge_uml_ex1\obj\Debug\net5.0\Bridge_uml_ex1.csproj.AssemblyReference.cache
+D:\MyProje\DesignPatterns\Design-Pattern\Bridge\Bridge_uml_ex1\obj\Debug\net5.0\Bridge_uml_ex1.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProje\DesignPatterns\Design-Pattern\Bridge\Bridge_uml_ex1\obj\Debug\net5.0\Bridge_uml_ex1.AssemblyInfoInputs.cache
+D:\MyProje\DesignPatterns\Design-Pattern\Bridge\Bridge_uml_ex1\obj\Debug\net5.0\Bridge_uml_ex1.AssemblyInfo.cs
+D:\MyProje\DesignPatterns\Design-Pattern\Bridge\Bridge_uml_ex1\obj\Debug\net5.0\Bridge_uml_ex1.csproj.CoreCompileInputs.cache
+D:\MyProje\DesignPatterns\Design-Pattern\Bridge\Bridge_uml_ex1\obj\Debug\net5.0\Bridge_uml_ex1.dll
+D:\MyProje\DesignPatterns\Design-Pattern\Bridge\Bridge_uml_ex1\obj\Debug\net5.0\refint\Bridge_uml_ex1.dll
+D:\MyProje\DesignPatterns\Design-Pattern\Bridge\Bridge_uml_ex1\obj\Debug\net5.0\Bridge_uml_ex1.pdb
+D:\MyProje\DesignPatterns\Design-Pattern\Bridge\Bridge_uml_ex1\obj\Debug\net5.0\Bridge_uml_ex1.genruntimeconfig.cache
+D:\MyProje\DesignPatterns\Design-Pattern\Bridge\Bridge_uml_ex1\obj\Debug\net5.0\ref\Bridge_uml_ex1.dll

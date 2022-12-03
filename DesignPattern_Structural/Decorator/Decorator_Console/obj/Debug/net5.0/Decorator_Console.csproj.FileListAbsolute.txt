@@ -1,0 +1,16 @@
+D:\MyProje\DesignPatterns\Design-Pattern\Decorator\Decorator_Console\bin\Debug\net5.0\Decorator_Console.exe
+D:\MyProje\DesignPatterns\Design-Pattern\Decorator\Decorator_Console\bin\Debug\net5.0\Decorator_Console.deps.json
+D:\MyProje\DesignPatterns\Design-Pattern\Decorator\Decorator_Console\bin\Debug\net5.0\Decorator_Console.runtimeconfig.json
+D:\MyProje\DesignPatterns\Design-Pattern\Decorator\Decorator_Console\bin\Debug\net5.0\Decorator_Console.runtimeconfig.dev.json
+D:\MyProje\DesignPatterns\Design-Pattern\Decorator\Decorator_Console\bin\Debug\net5.0\Decorator_Console.dll
+D:\MyProje\DesignPatterns\Design-Pattern\Decorator\Decorator_Console\bin\Debug\net5.0\Decorator_Console.pdb
+D:\MyProje\DesignPatterns\Design-Pattern\Decorator\Decorator_Console\obj\Debug\net5.0\Decorator_Console.csproj.AssemblyReference.cache
+D:\MyProje\DesignPatterns\Design-Pattern\Decorator\Decorator_Console\obj\Debug\net5.0\Decorator_Console.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProje\DesignPatterns\Design-Pattern\Decorator\Decorator_Console\obj\Debug\net5.0\Decorator_Console.AssemblyInfoInputs.cache
+D:\MyProje\DesignPatterns\Design-Pattern\Decorator\Decorator_Console\obj\Debug\net5.0\Decorator_Console.AssemblyInfo.cs
+D:\MyProje\DesignPatterns\Design-Pattern\Decorator\Decorator_Console\obj\Debug\net5.0\Decorator_Console.csproj.CoreCompileInputs.cache
+D:\MyProje\DesignPatterns\Design-Pattern\Decorator\Decorator_Console\obj\Debug\net5.0\Decorator_Console.dll
+D:\MyProje\DesignPatterns\Design-Pattern\Decorator\Decorator_Console\obj\Debug\net5.0\refint\Decorator_Console.dll
+D:\MyProje\DesignPatterns\Design-Pattern\Decorator\Decorator_Console\obj\Debug\net5.0\Decorator_Console.pdb
+D:\MyProje\DesignPatterns\Design-Pattern\Decorator\Decorator_Console\obj\Debug\net5.0\Decorator_Console.genruntimeconfig.cache
+D:\MyProje\DesignPatterns\Design-Pattern\Decorator\Decorator_Console\obj\Debug\net5.0\ref\Decorator_Console.dll

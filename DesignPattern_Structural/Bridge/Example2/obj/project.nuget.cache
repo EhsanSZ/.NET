@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "0k82wHPcCdAo03SieTBwkFw9Exr3BfM6lmC0FdTbuz51/U9zqSL9Q+JWBRzt0z8Z1FearDlrR278amHhB8iEig==",
+  "success": true,
+  "projectFilePath": "D:\\MyProje\\DesignPatterns\\Design-Pattern\\Bridge\\Example2\\Example2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ehsan\\.nuget\\packages\\system.configuration.configurationmanager\\7.0.0\\system.configuration.configurationmanager.7.0.0.nupkg.sha512",
+    "C:\\Users\\Ehsan\\.nuget\\packages\\system.security.accesscontrol\\6.0.0\\system.security.accesscontrol.6.0.0.nupkg.sha512",
+    "C:\\Users\\Ehsan\\.nuget\\packages\\system.security.cryptography.protecteddata\\7.0.0\\system.security.cryptography.protecteddata.7.0.0.nupkg.sha512",
+    "C:\\Users\\Ehsan\\.nuget\\packages\\system.security.permissions\\7.0.0\\system.security.permissions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Ehsan\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

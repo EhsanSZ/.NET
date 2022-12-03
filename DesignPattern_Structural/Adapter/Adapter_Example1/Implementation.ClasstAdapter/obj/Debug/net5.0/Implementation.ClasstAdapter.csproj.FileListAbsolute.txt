@@ -1,0 +1,16 @@
+D:\MyProje\DesignPatterns\Design-Pattern\Adapter\Adapter_Example1\Implementation.ClasstAdapter\bin\Debug\net5.0\Implementation.ClasstAdapter.exe
+D:\MyProje\DesignPatterns\Design-Pattern\Adapter\Adapter_Example1\Implementation.ClasstAdapter\bin\Debug\net5.0\Implementation.ClasstAdapter.deps.json
+D:\MyProje\DesignPatterns\Design-Pattern\Adapter\Adapter_Example1\Implementation.ClasstAdapter\bin\Debug\net5.0\Implementation.ClasstAdapter.runtimeconfig.json
+D:\MyProje\DesignPatterns\Design-Pattern\Adapter\Adapter_Example1\Implementation.ClasstAdapter\bin\Debug\net5.0\Implementation.ClasstAdapter.runtimeconfig.dev.json
+D:\MyProje\DesignPatterns\Design-Pattern\Adapter\Adapter_Example1\Implementation.ClasstAdapter\bin\Debug\net5.0\Implementation.ClasstAdapter.dll
+D:\MyProje\DesignPatterns\Design-Pattern\Adapter\Adapter_Example1\Implementation.ClasstAdapter\bin\Debug\net5.0\Implementation.ClasstAdapter.pdb
+D:\MyProje\DesignPatterns\Design-Pattern\Adapter\Adapter_Example1\Implementation.ClasstAdapter\obj\Debug\net5.0\Implementation.ClasstAdapter.csproj.AssemblyReference.cache
+D:\MyProje\DesignPatterns\Design-Pattern\Adapter\Adapter_Example1\Implementation.ClasstAdapter\obj\Debug\net5.0\Implementation.ClasstAdapter.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProje\DesignPatterns\Design-Pattern\Adapter\Adapter_Example1\Implementation.ClasstAdapter\obj\Debug\net5.0\Implementation.ClasstAdapter.AssemblyInfoInputs.cache
+D:\MyProje\DesignPatterns\Design-Pattern\Adapter\Adapter_Example1\Implementation.ClasstAdapter\obj\Debug\net5.0\Implementation.ClasstAdapter.AssemblyInfo.cs
+D:\MyProje\DesignPatterns\Design-Pattern\Adapter\Adapter_Example1\Implementation.ClasstAdapter\obj\Debug\net5.0\Implementation.ClasstAdapter.csproj.CoreCompileInputs.cache
+D:\MyProje\DesignPatterns\Design-Pattern\Adapter\Adapter_Example1\Implementation.ClasstAdapter\obj\Debug\net5.0\Implementation.ClasstAdapter.dll
+D:\MyProje\DesignPatterns\Design-Pattern\Adapter\Adapter_Example1\Implementation.ClasstAdapter\obj\Debug\net5.0\refint\Implementation.ClasstAdapter.dll
+D:\MyProje\DesignPatterns\Design-Pattern\Adapter\Adapter_Example1\Implementation.ClasstAdapter\obj\Debug\net5.0\Implementation.ClasstAdapter.pdb
+D:\MyProje\DesignPatterns\Design-Pattern\Adapter\Adapter_Example1\Implementation.ClasstAdapter\obj\Debug\net5.0\Implementation.ClasstAdapter.genruntimeconfig.cache
+D:\MyProje\DesignPatterns\Design-Pattern\Adapter\Adapter_Example1\Implementation.ClasstAdapter\obj\Debug\net5.0\ref\Implementation.ClasstAdapter.dll

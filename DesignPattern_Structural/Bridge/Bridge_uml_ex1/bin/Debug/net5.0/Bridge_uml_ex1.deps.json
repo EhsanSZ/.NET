@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Bridge_uml_ex1/1.0.0": {
+        "runtime": {
+          "Bridge_uml_ex1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bridge_uml_ex1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

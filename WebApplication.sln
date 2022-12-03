@@ -59,7 +59,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DesignPattern_Creational", 
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ADO.NET", "ADO.NET", "{C9D40F42-992E-42BD-9234-547DEB0B8357}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADO.NET", "ADO.NET\ADO.NET.csproj", "{1C75C153-80CC-405A-AAFA-FD4DD68B3CCA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ADO.NET", "ADO.NET\ADO.NET.csproj", "{1C75C153-80CC-405A-AAFA-FD4DD68B3CCA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DesignPattern_Structural", "DesignPattern_Structural", "{4734C7CC-00B9-4D74-A9D7-11A15F9E6796}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

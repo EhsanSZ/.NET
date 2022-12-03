@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "Decorator_Console": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:49787;http://localhost:49789"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+D:\MyProje\DesignPatterns\Design-Pattern\Adapter_Example2\NotificationSample\bin\Debug\net5.0\NotificationSample.exe
+D:\MyProje\DesignPatterns\Design-Pattern\Adapter_Example2\NotificationSample\bin\Debug\net5.0\NotificationSample.deps.json
+D:\MyProje\DesignPatterns\Design-Pattern\Adapter_Example2\NotificationSample\bin\Debug\net5.0\NotificationSample.runtimeconfig.json
+D:\MyProje\DesignPatterns\Design-Pattern\Adapter_Example2\NotificationSample\bin\Debug\net5.0\NotificationSample.runtimeconfig.dev.json
+D:\MyProje\DesignPatterns\Design-Pattern\Adapter_Example2\NotificationSample\bin\Debug\net5.0\NotificationSample.dll
+D:\MyProje\DesignPatterns\Design-Pattern\Adapter_Example2\NotificationSample\bin\Debug\net5.0\NotificationSample.pdb
+D:\MyProje\DesignPatterns\Design-Pattern\Adapter_Example2\NotificationSample\obj\Debug\net5.0\NotificationSample.csproj.AssemblyReference.cache
+D:\MyProje\DesignPatterns\Design-Pattern\Adapter_Example2\NotificationSample\obj\Debug\net5.0\NotificationSample.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProje\DesignPatterns\Design-Pattern\Adapter_Example2\NotificationSample\obj\Debug\net5.0\NotificationSample.AssemblyInfoInputs.cache
+D:\MyProje\DesignPatterns\Design-Pattern\Adapter_Example2\NotificationSample\obj\Debug\net5.0\NotificationSample.AssemblyInfo.cs
+D:\MyProje\DesignPatterns\Design-Pattern\Adapter_Example2\NotificationSample\obj\Debug\net5.0\NotificationSample.csproj.CoreCompileInputs.cache
+D:\MyProje\DesignPatterns\Design-Pattern\Adapter_Example2\NotificationSample\obj\Debug\net5.0\NotificationSample.dll
+D:\MyProje\DesignPatterns\Design-Pattern\Adapter_Example2\NotificationSample\obj\Debug\net5.0\refint\NotificationSample.dll
+D:\MyProje\DesignPatterns\Design-Pattern\Adapter_Example2\NotificationSample\obj\Debug\net5.0\NotificationSample.pdb
+D:\MyProje\DesignPatterns\Design-Pattern\Adapter_Example2\NotificationSample\obj\Debug\net5.0\NotificationSample.genruntimeconfig.cache
+D:\MyProje\DesignPatterns\Design-Pattern\Adapter_Example2\NotificationSample\obj\Debug\net5.0\ref\NotificationSample.dll
