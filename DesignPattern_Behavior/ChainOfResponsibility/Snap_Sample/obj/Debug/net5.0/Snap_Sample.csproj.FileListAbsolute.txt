@@ -1,0 +1,16 @@
+D:\MyProje\DesignPatterns\Design-Pattern\ChainOfResponsibility\Snap_Sample\bin\Debug\net5.0\Snap_Sample.exe
+D:\MyProje\DesignPatterns\Design-Pattern\ChainOfResponsibility\Snap_Sample\bin\Debug\net5.0\Snap_Sample.deps.json
+D:\MyProje\DesignPatterns\Design-Pattern\ChainOfResponsibility\Snap_Sample\bin\Debug\net5.0\Snap_Sample.runtimeconfig.json
+D:\MyProje\DesignPatterns\Design-Pattern\ChainOfResponsibility\Snap_Sample\bin\Debug\net5.0\Snap_Sample.runtimeconfig.dev.json
+D:\MyProje\DesignPatterns\Design-Pattern\ChainOfResponsibility\Snap_Sample\bin\Debug\net5.0\Snap_Sample.dll
+D:\MyProje\DesignPatterns\Design-Pattern\ChainOfResponsibility\Snap_Sample\bin\Debug\net5.0\Snap_Sample.pdb
+D:\MyProje\DesignPatterns\Design-Pattern\ChainOfResponsibility\Snap_Sample\obj\Debug\net5.0\Snap_Sample.csproj.AssemblyReference.cache
+D:\MyProje\DesignPatterns\Design-Pattern\ChainOfResponsibility\Snap_Sample\obj\Debug\net5.0\Snap_Sample.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProje\DesignPatterns\Design-Pattern\ChainOfResponsibility\Snap_Sample\obj\Debug\net5.0\Snap_Sample.AssemblyInfoInputs.cache
+D:\MyProje\DesignPatterns\Design-Pattern\ChainOfResponsibility\Snap_Sample\obj\Debug\net5.0\Snap_Sample.AssemblyInfo.cs
+D:\MyProje\DesignPatterns\Design-Pattern\ChainOfResponsibility\Snap_Sample\obj\Debug\net5.0\Snap_Sample.csproj.CoreCompileInputs.cache
+D:\MyProje\DesignPatterns\Design-Pattern\ChainOfResponsibility\Snap_Sample\obj\Debug\net5.0\Snap_Sample.dll
+D:\MyProje\DesignPatterns\Design-Pattern\ChainOfResponsibility\Snap_Sample\obj\Debug\net5.0\refint\Snap_Sample.dll
+D:\MyProje\DesignPatterns\Design-Pattern\ChainOfResponsibility\Snap_Sample\obj\Debug\net5.0\Snap_Sample.pdb
+D:\MyProje\DesignPatterns\Design-Pattern\ChainOfResponsibility\Snap_Sample\obj\Debug\net5.0\Snap_Sample.genruntimeconfig.cache
+D:\MyProje\DesignPatterns\Design-Pattern\ChainOfResponsibility\Snap_Sample\obj\Debug\net5.0\ref\Snap_Sample.dll

@@ -1,0 +1,16 @@
+D:\MyProje\DesignPatterns\Design-Pattern\State\Sample2_Order\bin\Debug\net5.0\Sample2_Order.exe
+D:\MyProje\DesignPatterns\Design-Pattern\State\Sample2_Order\bin\Debug\net5.0\Sample2_Order.deps.json
+D:\MyProje\DesignPatterns\Design-Pattern\State\Sample2_Order\bin\Debug\net5.0\Sample2_Order.runtimeconfig.json
+D:\MyProje\DesignPatterns\Design-Pattern\State\Sample2_Order\bin\Debug\net5.0\Sample2_Order.runtimeconfig.dev.json
+D:\MyProje\DesignPatterns\Design-Pattern\State\Sample2_Order\bin\Debug\net5.0\Sample2_Order.dll
+D:\MyProje\DesignPatterns\Design-Pattern\State\Sample2_Order\bin\Debug\net5.0\Sample2_Order.pdb
+D:\MyProje\DesignPatterns\Design-Pattern\State\Sample2_Order\obj\Debug\net5.0\Sample2_Order.csproj.AssemblyReference.cache
+D:\MyProje\DesignPatterns\Design-Pattern\State\Sample2_Order\obj\Debug\net5.0\Sample2_Order.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProje\DesignPatterns\Design-Pattern\State\Sample2_Order\obj\Debug\net5.0\Sample2_Order.AssemblyInfoInputs.cache
+D:\MyProje\DesignPatterns\Design-Pattern\State\Sample2_Order\obj\Debug\net5.0\Sample2_Order.AssemblyInfo.cs
+D:\MyProje\DesignPatterns\Design-Pattern\State\Sample2_Order\obj\Debug\net5.0\Sample2_Order.csproj.CoreCompileInputs.cache
+D:\MyProje\DesignPatterns\Design-Pattern\State\Sample2_Order\obj\Debug\net5.0\Sample2_Order.dll
+D:\MyProje\DesignPatterns\Design-Pattern\State\Sample2_Order\obj\Debug\net5.0\refint\Sample2_Order.dll
+D:\MyProje\DesignPatterns\Design-Pattern\State\Sample2_Order\obj\Debug\net5.0\Sample2_Order.pdb
+D:\MyProje\DesignPatterns\Design-Pattern\State\Sample2_Order\obj\Debug\net5.0\Sample2_Order.genruntimeconfig.cache
+D:\MyProje\DesignPatterns\Design-Pattern\State\Sample2_Order\obj\Debug\net5.0\ref\Sample2_Order.dll

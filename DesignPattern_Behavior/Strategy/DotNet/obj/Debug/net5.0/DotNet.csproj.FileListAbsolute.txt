@@ -1,0 +1,16 @@
+D:\MyProje\DesignPatterns\Design-Pattern\Strategy\DotNet\bin\Debug\net5.0\DotNet.exe
+D:\MyProje\DesignPatterns\Design-Pattern\Strategy\DotNet\bin\Debug\net5.0\DotNet.deps.json
+D:\MyProje\DesignPatterns\Design-Pattern\Strategy\DotNet\bin\Debug\net5.0\DotNet.runtimeconfig.json
+D:\MyProje\DesignPatterns\Design-Pattern\Strategy\DotNet\bin\Debug\net5.0\DotNet.runtimeconfig.dev.json
+D:\MyProje\DesignPatterns\Design-Pattern\Strategy\DotNet\bin\Debug\net5.0\DotNet.dll
+D:\MyProje\DesignPatterns\Design-Pattern\Strategy\DotNet\bin\Debug\net5.0\DotNet.pdb
+D:\MyProje\DesignPatterns\Design-Pattern\Strategy\DotNet\obj\Debug\net5.0\DotNet.csproj.AssemblyReference.cache
+D:\MyProje\DesignPatterns\Design-Pattern\Strategy\DotNet\obj\Debug\net5.0\DotNet.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProje\DesignPatterns\Design-Pattern\Strategy\DotNet\obj\Debug\net5.0\DotNet.AssemblyInfoInputs.cache
+D:\MyProje\DesignPatterns\Design-Pattern\Strategy\DotNet\obj\Debug\net5.0\DotNet.AssemblyInfo.cs
+D:\MyProje\DesignPatterns\Design-Pattern\Strategy\DotNet\obj\Debug\net5.0\DotNet.csproj.CoreCompileInputs.cache
+D:\MyProje\DesignPatterns\Design-Pattern\Strategy\DotNet\obj\Debug\net5.0\DotNet.dll
+D:\MyProje\DesignPatterns\Design-Pattern\Strategy\DotNet\obj\Debug\net5.0\refint\DotNet.dll
+D:\MyProje\DesignPatterns\Design-Pattern\Strategy\DotNet\obj\Debug\net5.0\DotNet.pdb
+D:\MyProje\DesignPatterns\Design-Pattern\Strategy\DotNet\obj\Debug\net5.0\DotNet.genruntimeconfig.cache
+D:\MyProje\DesignPatterns\Design-Pattern\Strategy\DotNet\obj\Debug\net5.0\ref\DotNet.dll

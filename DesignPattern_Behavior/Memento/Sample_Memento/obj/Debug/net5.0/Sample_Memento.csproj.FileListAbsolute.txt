@@ -1,0 +1,16 @@
+D:\MyProje\DesignPatterns\Design-Pattern\Memento\Sample_Memento\bin\Debug\net5.0\Sample_Memento.exe
+D:\MyProje\DesignPatterns\Design-Pattern\Memento\Sample_Memento\bin\Debug\net5.0\Sample_Memento.deps.json
+D:\MyProje\DesignPatterns\Design-Pattern\Memento\Sample_Memento\bin\Debug\net5.0\Sample_Memento.runtimeconfig.json
+D:\MyProje\DesignPatterns\Design-Pattern\Memento\Sample_Memento\bin\Debug\net5.0\Sample_Memento.runtimeconfig.dev.json
+D:\MyProje\DesignPatterns\Design-Pattern\Memento\Sample_Memento\bin\Debug\net5.0\Sample_Memento.dll
+D:\MyProje\DesignPatterns\Design-Pattern\Memento\Sample_Memento\bin\Debug\net5.0\Sample_Memento.pdb
+D:\MyProje\DesignPatterns\Design-Pattern\Memento\Sample_Memento\obj\Debug\net5.0\Sample_Memento.csproj.AssemblyReference.cache
+D:\MyProje\DesignPatterns\Design-Pattern\Memento\Sample_Memento\obj\Debug\net5.0\Sample_Memento.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProje\DesignPatterns\Design-Pattern\Memento\Sample_Memento\obj\Debug\net5.0\Sample_Memento.AssemblyInfoInputs.cache
+D:\MyProje\DesignPatterns\Design-Pattern\Memento\Sample_Memento\obj\Debug\net5.0\Sample_Memento.AssemblyInfo.cs
+D:\MyProje\DesignPatterns\Design-Pattern\Memento\Sample_Memento\obj\Debug\net5.0\Sample_Memento.csproj.CoreCompileInputs.cache
+D:\MyProje\DesignPatterns\Design-Pattern\Memento\Sample_Memento\obj\Debug\net5.0\Sample_Memento.dll
+D:\MyProje\DesignPatterns\Design-Pattern\Memento\Sample_Memento\obj\Debug\net5.0\refint\Sample_Memento.dll
+D:\MyProje\DesignPatterns\Design-Pattern\Memento\Sample_Memento\obj\Debug\net5.0\Sample_Memento.pdb
+D:\MyProje\DesignPatterns\Design-Pattern\Memento\Sample_Memento\obj\Debug\net5.0\Sample_Memento.genruntimeconfig.cache
+D:\MyProje\DesignPatterns\Design-Pattern\Memento\Sample_Memento\obj\Debug\net5.0\ref\Sample_Memento.dll
