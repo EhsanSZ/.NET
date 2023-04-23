@@ -1,0 +1,41 @@
+syntax = "proto3";
+
+option csharp_namespace = "grpcServer.Protos";
+
+
+service ProductService
+{
+     rpc AddNewProduct(RequestAddProductDTO) returns (ResponseAddProduct);
+     rpc GetAllProduct(RequestAllProduct) returns(ResponseAllProduct);
+}
+
+message RequestAllProduct
+{
+	int32 page=1;
+	int32 pageSize=2;
+}
+
+
+message  RequestAddProductDTO
+{
+     string Name=1;
+     string Brand=2;
+     int32 Price=3;
+}
+
+message ResponseAddProduct
+{
+    bool IsSuccess=1;
+}
+
+message ResponseAllProduct
+{
+     repeated ProductItem items=1;
+}
+
+message ProductItem
+{
+     string Name=1;
+     string Brand=2;
+     int32 Price=3;
+}
