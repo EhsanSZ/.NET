@@ -1,2 +1,0 @@
-obj\Debug\net5.0-windows/Product.cs \
-obj\Debug\net5.0-windows/ProductGrpc.cs: ../grpcServer/Protos/Product.proto
