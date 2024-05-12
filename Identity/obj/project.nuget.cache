@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rGQ4k5hcJW3FvYDonw2JdHebkH0ZhxpzTWwiRBK4QuLBvmI7vGwB6Bcvt2HmgtlOs7zDUKrg5bxs5m00NxMc4A==",
+  "dgSpecHash": "rwHciQab19ibmAXuKwMiBXo5qmqUp81B3oFST2Hk74YdzZb9u5MFQQfNrs6ZqPGUx28skh/+NQljJm9nDJK6nw==",
   "success": true,
-  "projectFilePath": "D:\\MyProje\\ASP.Net\\asp.net core\\WebApplication\\Identity\\Identity.csproj",
+  "projectFilePath": "F:\\z.Project\\nett\\.NET\\Identity\\Identity.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ehsan\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Ehsan\\.nuget\\packages\\microsoft.aspnetcore.authentication.google\\5.0.17\\microsoft.aspnetcore.authentication.google.5.0.17.nupkg.sha512",
@@ -106,7 +106,11 @@
     "C:\\Users\\Ehsan\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\Ehsan\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\Ehsan\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\Ehsan\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
+    "C:\\Users\\Ehsan\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
+    "C:\\Users\\Ehsan\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Ehsan\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Ehsan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Ehsan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
   ],
   "logs": []
 }

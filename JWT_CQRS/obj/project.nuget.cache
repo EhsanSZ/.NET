@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4thUJphIm3WUWRdTWxwTWOwWx9QivpH5/QHrVc3KKhB/b/7cAR/KKMRpshxvmEnBjjGBpA093/EWYhfxiAeHBw==",
+  "dgSpecHash": "VmpNf6p85vmpcNbtYW9q+EPMU3cP5HfQS1+6tNAqeienfom7B84vcfJGa/d3KwhjALsUtNueGC4Mank59nA3pw==",
   "success": true,
-  "projectFilePath": "D:\\MyProje\\ASP.Net\\asp.net core\\WebApplication\\JWT_CQRS\\JWT_CQRS.csproj",
+  "projectFilePath": "F:\\z.Project\\nett\\.NET\\JWT_CQRS\\JWT_CQRS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ehsan\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\Ehsan\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",

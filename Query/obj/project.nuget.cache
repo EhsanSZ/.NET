@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yuXs+ttMxzs/zLn7d6xXak6NHFQ94wiTIc5KtQf6eRl3Xw0dkZ0xpXZNshzEzsbcaK9bWf8pBfMfGWA/9JYMjA==",
+  "dgSpecHash": "r+p7jmPBMIN2qMw6gH5Fv7dUsViPSNNygbSdpe1Mn5x2oCnUN8uMWH7izIeoIrAL6VeJxc3b49xiqRw4LHmjBw==",
   "success": true,
-  "projectFilePath": "D:\\MyProje\\ASP.Net\\asp.net core\\WebApplication\\Query\\Query.csproj",
+  "projectFilePath": "F:\\z.Project\\nett\\.NET\\Query\\Query.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ehsan\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Ehsan\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
@@ -100,7 +100,10 @@
     "C:\\Users\\Ehsan\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\Ehsan\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\Ehsan\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\Ehsan\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
+    "C:\\Users\\Ehsan\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
+    "C:\\Users\\Ehsan\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Ehsan\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Ehsan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }

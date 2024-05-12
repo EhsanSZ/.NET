@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "PdWlhXiMrItneA11PzxtgVfGCAjadJbKej1U4v1nAN0aWKhJqBjwVIEJwCIugab1blFYV0Kfmsp02H3HZajbKA==",
+  "dgSpecHash": "P1V5F5b4swQ15MGJCJ++yFkvhhpOi3cn/yuuiWWmjHtoA++kaH4nXNrumGp1lMdFIdajiy/tsNiCVTop8Ejeow==",
   "success": true,
-  "projectFilePath": "D:\\MyProje\\ASP.Net\\asp.net core\\WebApplication\\TagHelper\\TagHelper.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "F:\\z.Project\\nett\\.NET\\TagHelper\\TagHelper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ehsan\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Ehsan\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Ehsan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Ehsan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
   "logs": []
 }

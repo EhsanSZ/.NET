@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\MyProje\\ASP.Net\\asp.net core\\WebApplication\\JWT_CQRS\\JWT_CQRS.csproj": {}
+    "F:\\z.Project\\nett\\.NET\\JWT_CQRS\\JWT_CQRS.csproj": {}
   },
   "projects": {
-    "D:\\MyProje\\ASP.Net\\asp.net core\\WebApplication\\JWT_CQRS\\JWT_CQRS.csproj": {
+    "F:\\z.Project\\nett\\.NET\\JWT_CQRS\\JWT_CQRS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MyProje\\ASP.Net\\asp.net core\\WebApplication\\JWT_CQRS\\JWT_CQRS.csproj",
+        "projectUniqueName": "F:\\z.Project\\nett\\.NET\\JWT_CQRS\\JWT_CQRS.csproj",
         "projectName": "JWT_CQRS",
-        "projectPath": "D:\\MyProje\\ASP.Net\\asp.net core\\WebApplication\\JWT_CQRS\\JWT_CQRS.csproj",
+        "projectPath": "F:\\z.Project\\nett\\.NET\\JWT_CQRS\\JWT_CQRS.csproj",
         "packagesPath": "C:\\Users\\Ehsan\\.nuget\\packages\\",
-        "outputPath": "D:\\MyProje\\ASP.Net\\asp.net core\\WebApplication\\JWT_CQRS\\obj\\",
+        "outputPath": "F:\\z.Project\\nett\\.NET\\JWT_CQRS\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ehsan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -88,7 +88,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

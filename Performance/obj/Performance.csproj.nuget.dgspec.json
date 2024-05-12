@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\MyProje\\ASP.Net\\asp.net core\\WebApplication\\Performance\\Performance.csproj": {}
+    "F:\\z.Project\\nett\\.NET\\Performance\\Performance.csproj": {}
   },
   "projects": {
-    "D:\\MyProje\\ASP.Net\\asp.net core\\WebApplication\\Performance\\Performance.csproj": {
+    "F:\\z.Project\\nett\\.NET\\Performance\\Performance.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MyProje\\ASP.Net\\asp.net core\\WebApplication\\Performance\\Performance.csproj",
+        "projectUniqueName": "F:\\z.Project\\nett\\.NET\\Performance\\Performance.csproj",
         "projectName": "Performance",
-        "projectPath": "D:\\MyProje\\ASP.Net\\asp.net core\\WebApplication\\Performance\\Performance.csproj",
+        "projectPath": "F:\\z.Project\\nett\\.NET\\Performance\\Performance.csproj",
         "packagesPath": "C:\\Users\\Ehsan\\.nuget\\packages\\",
-        "outputPath": "D:\\MyProje\\ASP.Net\\asp.net core\\WebApplication\\Performance\\obj\\",
+        "outputPath": "F:\\z.Project\\nett\\.NET\\Performance\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ehsan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,6 +60,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[5.0.17, 5.0.17]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -68,7 +86,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

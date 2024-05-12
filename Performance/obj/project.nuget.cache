@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GbCav7H8mesVBnri6WFtFVw59zofVitsgRPb6xeFnSb7yJl1y/9aIcRfKdgQr6EnAnKRmN1rpDWrs6Es2/R55A==",
+  "dgSpecHash": "4DV+75OXqw2XanHhnNj3mC+ZFAOR/y2+dEufnBSW3RmowzA370Nnu5wTz39lGUQYFJhwY9Q8ozmasJfh9M6ooA==",
   "success": true,
-  "projectFilePath": "D:\\MyProje\\ASP.Net\\asp.net core\\WebApplication\\Performance\\Performance.csproj",
+  "projectFilePath": "F:\\z.Project\\nett\\.NET\\Performance\\Performance.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ehsan\\.nuget\\packages\\advancedstringbuilder\\0.1.0\\advancedstringbuilder.0.1.0.nupkg.sha512",
     "C:\\Users\\Ehsan\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
@@ -22,7 +22,11 @@
     "C:\\Users\\Ehsan\\.nuget\\packages\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512",
     "C:\\Users\\Ehsan\\.nuget\\packages\\webmarkupmin.aspnet.common\\2.12.0\\webmarkupmin.aspnet.common.2.12.0.nupkg.sha512",
     "C:\\Users\\Ehsan\\.nuget\\packages\\webmarkupmin.aspnetcore5\\2.12.0\\webmarkupmin.aspnetcore5.2.12.0.nupkg.sha512",
-    "C:\\Users\\Ehsan\\.nuget\\packages\\webmarkupmin.core\\2.12.0\\webmarkupmin.core.2.12.0.nupkg.sha512"
+    "C:\\Users\\Ehsan\\.nuget\\packages\\webmarkupmin.core\\2.12.0\\webmarkupmin.core.2.12.0.nupkg.sha512",
+    "C:\\Users\\Ehsan\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Ehsan\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Ehsan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Ehsan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
   ],
   "logs": []
 }

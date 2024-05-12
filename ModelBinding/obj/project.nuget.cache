@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "iErKkB4Gjg5CaA0otOKCd4vkj4cyYue0AnPEREke7zwHf1mWUjz+ekvc5mncQvbPAIUEG/Jxj7zw1t4/QnicGA==",
+  "dgSpecHash": "57IKlwVo/KPNuN0MbGRQxhO30PdoMtPGad82bj5DradhDzPLyA1ui8ypE6kI/e5Wbb01TQ4lNV1WcyiiYdbbTw==",
   "success": true,
-  "projectFilePath": "D:\\MyProje\\ASP.Net\\asp.net core\\WebApplication\\ModelBinding\\ModelBinding.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "F:\\z.Project\\nett\\.NET\\ModelBinding\\ModelBinding.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ehsan\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Ehsan\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Ehsan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Ehsan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
   "logs": []
 }
