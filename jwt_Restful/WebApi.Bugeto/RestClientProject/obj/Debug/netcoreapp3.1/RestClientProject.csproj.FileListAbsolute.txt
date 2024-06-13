@@ -1,0 +1,15 @@
+E:\src\WebApi.Bugeto\RestClientProject\bin\Debug\netcoreapp3.1\RestClientProject.exe
+E:\src\WebApi.Bugeto\RestClientProject\bin\Debug\netcoreapp3.1\RestClientProject.deps.json
+E:\src\WebApi.Bugeto\RestClientProject\bin\Debug\netcoreapp3.1\RestClientProject.runtimeconfig.json
+E:\src\WebApi.Bugeto\RestClientProject\bin\Debug\netcoreapp3.1\RestClientProject.runtimeconfig.dev.json
+E:\src\WebApi.Bugeto\RestClientProject\bin\Debug\netcoreapp3.1\RestClientProject.dll
+E:\src\WebApi.Bugeto\RestClientProject\bin\Debug\netcoreapp3.1\RestClientProject.pdb
+E:\src\WebApi.Bugeto\RestClientProject\bin\Debug\netcoreapp3.1\RestSharp.dll
+E:\src\WebApi.Bugeto\RestClientProject\obj\Debug\netcoreapp3.1\RestClientProject.AssemblyInfoInputs.cache
+E:\src\WebApi.Bugeto\RestClientProject\obj\Debug\netcoreapp3.1\RestClientProject.AssemblyInfo.cs
+E:\src\WebApi.Bugeto\RestClientProject\obj\Debug\netcoreapp3.1\RestClientProject.csproj.CoreCompileInputs.cache
+E:\src\WebApi.Bugeto\RestClientProject\obj\Debug\netcoreapp3.1\RestClientProject.csproj.CopyComplete
+E:\src\WebApi.Bugeto\RestClientProject\obj\Debug\netcoreapp3.1\RestClientProject.dll
+E:\src\WebApi.Bugeto\RestClientProject\obj\Debug\netcoreapp3.1\RestClientProject.pdb
+E:\src\WebApi.Bugeto\RestClientProject\obj\Debug\netcoreapp3.1\RestClientProject.genruntimeconfig.cache
+E:\src\WebApi.Bugeto\RestClientProject\obj\Debug\netcoreapp3.1\RestClientProject.csprojAssemblyReference.cache

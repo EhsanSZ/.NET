@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WebApi.Bugeto</name>
+    </assembly>
+    <members>
+        <member name="M:WebApi.Bugeto.Controllers.CategoriesController.Get">
+            <summary>
+            لیست دسته بندی ها را دیافت کن
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:WebApi.Bugeto.Controllers.CategoriesController.Get(System.Int32)">
+            <summary>
+             اطلاعات دسته بندی رو دریافت کن
+            </summary>
+            <param name="Id">شناسه دسته بندی</param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
