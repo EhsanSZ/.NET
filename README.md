@@ -1,0 +1,4 @@
+Nikammoz
+Atiya
+Tosinso
+Bugeto
